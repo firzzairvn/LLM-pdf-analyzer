@@ -1,4 +1,5 @@
-![Logo](https://venturebeat.com/wp-content/uploads/2019/03/openai-1.png?fit=2400%2C1000&strip=all)
+<img src="https://venturebeat.com/wp-content/uploads/2019/03/openai-1.png?fit=2400%2C1000&strip=all" alt="Logo" width="800" height="300">
+
 
 
 # PDF Files Analyzer using LLM 
