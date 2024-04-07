@@ -28,6 +28,10 @@ pip install -qy tqdm
 ```bash
 pip install Flask Flask_Cors langchain==0.0.299 openai==0.28 pdf2image chromadb==0.3.29 pypdf tiktoken
 ```
+## Run Program
+```bash
+python3 server.py
+```
 
 ## Required
 
